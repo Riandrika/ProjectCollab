@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project Collab</string>
+    <string name="image_siswa">Image Siswa</string>
+    <string name="welcome_to_application_collab">Welcome To Application Collab</string>
+    <string name="search">Search…</string>
+    <string name="search2">Search</string>
+    <string name="semangat_belajar_android">Semangat Belajar Android</string>
+    <string name="rian">Riandrika Yusuf Hilman</string>
+    <string name="gender">Gender</string>
+    <string name="laki_laki">Laki Laki</string>
+    <string name="who_is_your_friend">Who is your new friend?</string>
+    <string name="nama">Name</string>
+    <string name="type_something">Type Something…</string>
+    <string name="school">School</string>
+    <string name="github">Github</string>
+    <string name="hobby">Hobby</string>
+    <string name="save">Save</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="hello_how_are_you">Hello, How Are You?</string>
+    <string name="new_friend">New Friend</string>
+    <string name="view_all">View All</string>
+
+</resources>
