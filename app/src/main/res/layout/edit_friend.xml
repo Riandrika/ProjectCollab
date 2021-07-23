@@ -14,7 +14,7 @@
             android:textColor="@color/black"
             android:textStyle="bold"
             android:textSize="25sp"
-            android:text="@string/who_is_your_friend"/>
+            android:text="@string/any_new_information"/>
         <RelativeLayout
             android:orientation="vertical"
             android:layout_gravity="center"
@@ -33,21 +33,21 @@
             android:layout_width="match_parent"
             android:layout_marginTop="20dp"
             android:layout_height="wrap_content">
-                <TextView
-                    android:textColor="@color/teal_700"
-                    android:textStyle="bold"
-                    android:textSize="17sp"
-                    android:layout_marginStart="5dp"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="@string/nama"/>
-                <EditText
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:hint="@string/type_something"
-                    android:autofillHints=""
-                    android:inputType="textShortMessage" />
-            </LinearLayout>
+            <TextView
+                android:textColor="@color/teal_700"
+                android:textStyle="bold"
+                android:textSize="17sp"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/nama"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/type_something"
+                android:autofillHints=""
+                android:inputType="textShortMessage" />
+        </LinearLayout>
         <LinearLayout
             android:orientation="vertical"
             android:layout_width="match_parent"

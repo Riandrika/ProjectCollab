@@ -22,5 +22,10 @@
     <string name="tambah">Tambah</string>
     <string name="add_photo">Add Photo</string>
     <string name="photo_teman">Photo Teman</string>
+    <string name="any_new_information">Any new information ?</string>
+    <string name="all_your_friend">All Your Friends</string>
+    <string name="find_who">Find who…</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
 
 </resources>
